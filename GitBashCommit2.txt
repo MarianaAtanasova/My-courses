@@ -1,1 +1,3 @@
 Maybe later i will try some Pythin code!
+
+ok....lets  make some changes and try to see them trought the terminal.
